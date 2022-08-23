@@ -15,4 +15,4 @@ Choose files containing ***front*** based on your hotend and ***rear_cw1*** / **
 | E3D Revo Six | (E-V/R6) |  |
 | E3D V6 | (E-V/R6) |  |
 | E3D Revo Voron | (E-RV) |  |
-| Slice Mosqutio | (S-MOS) |  |
+| Slice Mosquito | (S-MOS) |  |
